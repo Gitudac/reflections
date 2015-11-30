@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new folder git gets created. You need to do it so the files get tracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+you add commits into the working directory and you can use status on it

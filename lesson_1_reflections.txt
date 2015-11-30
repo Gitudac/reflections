@@ -1,0 +1,14 @@
+Using diff you can see all the differences between the 2 files which make it easy to find the bug in big files
+
+It makes it easier to use older versions. Sometimes newer version might not work for some people so you can just use an older version
+
+Manually: You might forget to create commits and you don't decide when to create a commit which might be bad because doing it
+		  automatically might cause to create commits with no changes, too big changes or too small changes
+
+You don't use Google docs for stuff like webpages(html,css,js) or generally stuff that requires mulit-file stuff
+
+git log to find the id of the commits, git diff to see the difference between two commits
+
+you can just return to older versions if you make a breaking change
+
+I am currently learning android development at the moment so git might be useful in future projects
