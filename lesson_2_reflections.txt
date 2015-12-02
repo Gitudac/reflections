@@ -3,3 +3,12 @@ A new folder git gets created. You need to do it so the files get tracked.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 you add commits into the working directory and you can use status on it
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can see which files are about to be committed
+
+How do the diagrams help you visualize the branch structure?
+You can see which commits are unreachable and the commits' parents
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You merge one branch into the other
